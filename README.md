@@ -1,4 +1,4 @@
-# Rolling-Sky-SDM-Tool
+# Rolling-Sky-Cheating-Legends
 Welcome to Rolling Sky: Cheating Legends!
 This team is created by Ramosa Quanki
 Team members: Ramosa Quanki (team creator, RS SDM Tool creator), Binary Gamer (Creator's helper, he help me to find interesting lines of code from RS game)
